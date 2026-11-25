@@ -40,4 +40,4 @@ order list
 help | quit
 ```
 
-Put a name with spaces in quotes, for example `product add A-1 "Blue Widget" 10 3 1999`. Prices are whole cents.
+Put a name with spaces in quotes, for example `product add A-1 "Blue Widget" 10 3 1999`. Prices are whole cents .
