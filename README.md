@@ -24,7 +24,7 @@ ctest --test-dir build --output-on-failure
 ./build/inventory_app
 ```
 
-## Commands
+## Commands 
 
 ```
 product add <sku> <name> <quantity> <reorder level> <price cents>
